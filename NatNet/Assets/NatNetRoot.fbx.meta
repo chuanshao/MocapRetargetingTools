@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: ef624ac15318a5f459bee92dcaad782a
+timeCreated: 1455316798
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Jan_Upper_Fingers_Head
+    100002: Jan_Upper_Fingers_Hips
+    100004: Jan_Upper_Fingers_LeftArm
+    100006: Jan_Upper_Fingers_LeftFoot
+    100008: Jan_Upper_Fingers_LeftForeArm
+    100010: Jan_Upper_Fingers_LeftHand
+    100012: Jan_Upper_Fingers_LeftHandIndex1
+    100014: Jan_Upper_Fingers_LeftHandIndex2
+    100016: Jan_Upper_Fingers_LeftHandIndex3
+    100018: Jan_Upper_Fingers_LeftHandMiddle1
+    100020: Jan_Upper_Fingers_LeftHandMiddle2
+    100022: Jan_Upper_Fingers_LeftHandMiddle3
+    100024: Jan_Upper_Fingers_LeftHandPinky1
+    100026: Jan_Upper_Fingers_LeftHandPinky2
+    100028: Jan_Upper_Fingers_LeftHandPinky3
+    100030: Jan_Upper_Fingers_LeftHandRing1
+    100032: Jan_Upper_Fingers_LeftHandRing2
+    100034: Jan_Upper_Fingers_LeftHandRing3
+    100036: Jan_Upper_Fingers_LeftHandThumb1
+    100038: Jan_Upper_Fingers_LeftHandThumb2
+    100040: Jan_Upper_Fingers_LeftHandThumb3
+    100042: Jan_Upper_Fingers_LeftLeg
+    100044: Jan_Upper_Fingers_LeftShoulder
+    100046: Jan_Upper_Fingers_LeftToeBase
+    100048: Jan_Upper_Fingers_LeftUpLeg
+    100050: Jan_Upper_Fingers_Neck
+    100052: Jan_Upper_Fingers_RightArm
+    100054: Jan_Upper_Fingers_RightFoot
+    100056: Jan_Upper_Fingers_RightForeArm
+    100058: Jan_Upper_Fingers_RightHand
+    100060: Jan_Upper_Fingers_RightHandIndex1
+    100062: Jan_Upper_Fingers_RightHandIndex2
+    100064: Jan_Upper_Fingers_RightHandIndex3
+    100066: Jan_Upper_Fingers_RightHandMiddle1
+    100068: Jan_Upper_Fingers_RightHandMiddle2
+    100070: Jan_Upper_Fingers_RightHandMiddle3
+    100072: Jan_Upper_Fingers_RightHandPinky1
+    100074: Jan_Upper_Fingers_RightHandPinky2
+    100076: Jan_Upper_Fingers_RightHandPinky3
+    100078: Jan_Upper_Fingers_RightHandRing1
+    100080: Jan_Upper_Fingers_RightHandRing2
+    100082: Jan_Upper_Fingers_RightHandRing3
+    100084: Jan_Upper_Fingers_RightHandThumb1
+    100086: Jan_Upper_Fingers_RightHandThumb2
+    100088: Jan_Upper_Fingers_RightHandThumb3
+    100090: Jan_Upper_Fingers_RightLeg
+    100092: Jan_Upper_Fingers_RightShoulder
+    100094: Jan_Upper_Fingers_RightToeBase
+    100096: Jan_Upper_Fingers_RightUpLeg
+    100098: Jan_Upper_Fingers_Spine
+    100100: Jan_Upper_Fingers_Spine1
+    100102: //RootNode
+    400000: Jan_Upper_Fingers_Head
+    400002: Jan_Upper_Fingers_Hips
+    400004: Jan_Upper_Fingers_LeftArm
+    400006: Jan_Upper_Fingers_LeftFoot
+    400008: Jan_Upper_Fingers_LeftForeArm
+    400010: Jan_Upper_Fingers_LeftHand
+    400012: Jan_Upper_Fingers_LeftHandIndex1
+    400014: Jan_Upper_Fingers_LeftHandIndex2
+    400016: Jan_Upper_Fingers_LeftHandIndex3
+    400018: Jan_Upper_Fingers_LeftHandMiddle1
+    400020: Jan_Upper_Fingers_LeftHandMiddle2
+    400022: Jan_Upper_Fingers_LeftHandMiddle3
+    400024: Jan_Upper_Fingers_LeftHandPinky1
+    400026: Jan_Upper_Fingers_LeftHandPinky2
+    400028: Jan_Upper_Fingers_LeftHandPinky3
+    400030: Jan_Upper_Fingers_LeftHandRing1
+    400032: Jan_Upper_Fingers_LeftHandRing2
+    400034: Jan_Upper_Fingers_LeftHandRing3
+    400036: Jan_Upper_Fingers_LeftHandThumb1
+    400038: Jan_Upper_Fingers_LeftHandThumb2
+    400040: Jan_Upper_Fingers_LeftHandThumb3
+    400042: Jan_Upper_Fingers_LeftLeg
+    400044: Jan_Upper_Fingers_LeftShoulder
+    400046: Jan_Upper_Fingers_LeftToeBase
+    400048: Jan_Upper_Fingers_LeftUpLeg
+    400050: Jan_Upper_Fingers_Neck
+    400052: Jan_Upper_Fingers_RightArm
+    400054: Jan_Upper_Fingers_RightFoot
+    400056: Jan_Upper_Fingers_RightForeArm
+    400058: Jan_Upper_Fingers_RightHand
+    400060: Jan_Upper_Fingers_RightHandIndex1
+    400062: Jan_Upper_Fingers_RightHandIndex2
+    400064: Jan_Upper_Fingers_RightHandIndex3
+    400066: Jan_Upper_Fingers_RightHandMiddle1
+    400068: Jan_Upper_Fingers_RightHandMiddle2
+    400070: Jan_Upper_Fingers_RightHandMiddle3
+    400072: Jan_Upper_Fingers_RightHandPinky1
+    400074: Jan_Upper_Fingers_RightHandPinky2
+    400076: Jan_Upper_Fingers_RightHandPinky3
+    400078: Jan_Upper_Fingers_RightHandRing1
+    400080: Jan_Upper_Fingers_RightHandRing2
+    400082: Jan_Upper_Fingers_RightHandRing3
+    400084: Jan_Upper_Fingers_RightHandThumb1
+    400086: Jan_Upper_Fingers_RightHandThumb2
+    400088: Jan_Upper_Fingers_RightHandThumb3
+    400090: Jan_Upper_Fingers_RightLeg
+    400092: Jan_Upper_Fingers_RightShoulder
+    400094: Jan_Upper_Fingers_RightToeBase
+    400096: Jan_Upper_Fingers_RightUpLeg
+    400098: Jan_Upper_Fingers_Spine
+    400100: Jan_Upper_Fingers_Spine1
+    400102: //RootNode
+    7400000: Take 2016-02-12 06.45.27 PM
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 2016-02-12 06.45.27 PM' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Jan_Upper_Fingers_Spine1' has
+      translation animation that will be discarded.\n\t'Jan_Upper_Fingers_Head' has
+      translation animation that will be discarded.\n\t'Jan_Upper_Fingers_LeftHand'
+      has translation animation that will be discarded.\n\t'Jan_Upper_Fingers_RightHand'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Jan_Upper_Fingers_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jan_Upper_Fingers_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NatNetRoot(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_Hips
+      position: {x: 0, y: 0.87981045, z: 0}
+      rotation: {x: 0.041462783, y: -0.025323192, z: -0.0069589936, w: 0.99879485}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftUpLeg
+      position: {x: -0.09343815, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftLeg
+      position: {x: -0, y: -0.39244017, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftFoot
+      position: {x: -0, y: -0.39244017, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftToeBase
+      position: {x: -0, y: -0.06073479, z: 0.14015722}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightUpLeg
+      position: {x: 0.09343815, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightLeg
+      position: {x: -0, y: -0.39244017, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightFoot
+      position: {x: -0, y: -0.39244017, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightToeBase
+      position: {x: -0, y: -0.06073479, z: 0.14015722}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_Spine
+      position: {x: -0, y: 0.07661928, z: 0}
+      rotation: {x: -0.08072738, y: -0.0032642148, z: 0.016322026, w: 0.99659723}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_Spine1
+      position: {x: -0.00000230968, y: 0.21769105, z: 0.000006765127}
+      rotation: {x: 0.058657788, y: -0.0010805072, z: -0.013094088, w: 0.9981917}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftShoulder
+      position: {x: -0.037515484, y: 0.1987415, z: -0.0010758769}
+      rotation: {x: 0.08171838, y: 0.08001485, z: -0.056661043, w: 0.9918212}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftArm
+      position: {x: -0.13267677, y: 0, z: 0}
+      rotation: {x: 0.1823087, y: -0.023865262, z: 0.08588096, w: 0.97919273}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftForeArm
+      position: {x: -0.37912166, y: 0, z: 0}
+      rotation: {x: -0.0697602, y: 0.010124818, z: -0.031666733, w: 0.9970097}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHand
+      position: {x: -0.17662811, y: 0.0005364418, z: 0.0014227033}
+      rotation: {x: -0.045513853, y: 0.10016078, z: -0.112359315, w: 0.9875585}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandIndex1
+      position: {x: -0.08409433, y: 0, z: 0.03270335}
+      rotation: {x: -0.0005326641, y: 0.03616887, z: -0.014715909, w: 0.9992372}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandIndex2
+      position: {x: -0.046719074, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandIndex3
+      position: {x: -0.023359537, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandMiddle1
+      position: {x: -0.08409433, y: 0, z: 0.010838825}
+      rotation: {x: -0.0010003343, y: 0.009820819, z: 0.004827538, w: 0.9999396}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandMiddle2
+      position: {x: -0.05139098, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.029382735, w: 0.9995682}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandMiddle3
+      position: {x: -0.028031444, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.014692955, w: 0.99989206}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandPinky1
+      position: {x: -0.07475052, y: 0, z: -0.03270335}
+      rotation: {x: -0.0028132086, y: -0.011259256, z: 0.03121731, w: 0.9994453}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandPinky2
+      position: {x: -0.03737526, y: 0, z: 0}
+      rotation: {x: 0.0000000679865, y: 0.0000010896466, z: 0.039168626, w: 0.99923265}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandPinky3
+      position: {x: -0.01868763, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.044510994, w: 0.9990089}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandRing1
+      position: {x: -0.07942243, y: 0, z: -0.010838825}
+      rotation: {x: -0.0014669275, y: -0.016537808, z: 0.024365785, w: 0.99956524}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandRing2
+      position: {x: -0.046719074, y: 0, z: 0}
+      rotation: {x: -0.00000004470345, y: -0.0000005378384, z: 0.04068343, w: 0.9991721}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandRing3
+      position: {x: -0.023359537, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.029382735, w: 0.9995682}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandThumb1
+      position: {x: -0.023359537, y: -0.014015722, z: 0.046719074}
+      rotation: {x: -0.0014485045, y: 0.3621363, z: -0.11270927, w: 0.9252848}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandThumb2
+      position: {x: -0.028031444, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_LeftHandThumb3
+      position: {x: -0.028031444, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_Neck
+      position: {x: -0, y: 0.22292861, z: 0.020266239}
+      rotation: {x: 0.047946963, y: -0.051167443, z: -0.063975915, w: 0.9954848}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_Head
+      position: {x: 0.000009685755, y: 0.16596471, z: -0.02371457}
+      rotation: {x: -0.0057906453, y: -0.03399169, z: 0.07128107, w: 0.99686015}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightShoulder
+      position: {x: 0.036807388, y: 0.1987415, z: -0.0010758769}
+      rotation: {x: 0.059547078, y: 0.056415915, z: 0.02904856, w: 0.99620664}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightArm
+      position: {x: 0.13267677, y: 0, z: 0}
+      rotation: {x: 0.011589554, y: -0.024704209, z: -0.04983265, w: 0.9983847}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightForeArm
+      position: {x: 0.37912166, y: 0, z: 0}
+      rotation: {x: -0.14459886, y: -0.009586383, z: 0.027973032, w: 0.9890484}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHand
+      position: {x: 0.16558585, y: 0.0003992319, z: 0.005699739}
+      rotation: {x: -0.042532396, y: 0.073579006, z: -0.07146657, w: 0.9938157}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandIndex1
+      position: {x: 0.08409433, y: 0, z: 0.03270335}
+      rotation: {x: 0.00015613885, y: -0.007900094, z: -0.0197597, w: 0.99977356}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandIndex2
+      position: {x: 0.046719074, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.039512914, w: 0.99921906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandIndex3
+      position: {x: 0.023359537, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.019760314, w: 0.99980474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandMiddle1
+      position: {x: 0.08409433, y: 0, z: 0.010838825}
+      rotation: {x: -0.000450297, y: 0.012968721, z: -0.023257272, w: 0.9996453}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandMiddle2
+      position: {x: 0.05139098, y: 0, z: 0}
+      rotation: {x: -0.000000027008351, y: 0.000000115483985, z: -0.04129871, w: 0.99914694}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandMiddle3
+      position: {x: 0.028031444, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.023262206, w: 0.9997294}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandPinky1
+      position: {x: 0.07475052, y: 0, z: -0.03270335}
+      rotation: {x: -0.0023538882, y: 0.014565002, z: -0.020080356, w: 0.9996896}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandPinky2
+      position: {x: 0.03737526, y: 0, z: 0}
+      rotation: {x: -0.00000005308538, y: 0.0000002402812, z: -0.04058821, w: 0.99917597}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandPinky3
+      position: {x: 0.01868763, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.030371232, w: 0.99953866}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandRing1
+      position: {x: 0.07942243, y: 0, z: -0.010838825}
+      rotation: {x: -0.0013844894, y: 0.015237222, z: -0.021711497, w: 0.99964726}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandRing2
+      position: {x: 0.046719074, y: 0, z: 0}
+      rotation: {x: 0.000000045169134, y: 0.00000051781524, z: -0.040951822, w: 0.9991612}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandRing3
+      position: {x: 0.023359537, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.026763856, w: 0.9996418}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandThumb1
+      position: {x: 0.023359537, y: -0.014015722, z: 0.046719074}
+      rotation: {x: 0.003552974, y: -0.3751678, z: -0.0735753, w: 0.92402554}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandThumb2
+      position: {x: 0.028031444, y: 0, z: 0}
+      rotation: {x: 0, y: 0.013955337, z: -0, w: 0.99990267}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jan_Upper_Fingers_RightHandThumb3
+      position: {x: 0.028031444, y: 0, z: 0}
+      rotation: {x: 0, y: 0.027907953, z: -0, w: 0.9996105}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
